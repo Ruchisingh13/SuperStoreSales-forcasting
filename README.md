@@ -1,4 +1,3 @@
-![Screenshot 2024-06-06 231200](https://github.com/Ruchisingh13/SuperStoreSales-forcasting/assets/141247708/14755d18-b120-4d4b-bbe9-6773eb98227c)# SuperStoreSales-forcasting
 
 Data Analytics on 15 days forcasting in super strore sales.
 
@@ -23,7 +22,8 @@ The objective can be broken down into the following detailed components:
 4. Actionable Insights and Recommendations: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction
 
 
+![Screenshot 2024-06-06 231200](https://github.com/Ruchisingh13/SuperStoreSales-forcasting/assets/141247708/14755d18-b120-4d4b-bbe9-6773eb98227c)# SuperStoreSales-forcasting
 
-
+![Screenshot 2024-06-06 231356](https://github.com/Ruchisingh13/SuperStoreSales-forcasting/assets/141247708/bbd3ab02-ccef-4993-9a38-66dd86db5500)
 
 
