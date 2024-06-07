@@ -1,4 +1,4 @@
-# SuperStoreSales-forcasting
+![Screenshot 2024-06-06 231200](https://github.com/Ruchisingh13/SuperStoreSales-forcasting/assets/141247708/14755d18-b120-4d4b-bbe9-6773eb98227c)# SuperStoreSales-forcasting
 
 Data Analytics on 15 days forcasting in super strore sales.
 
@@ -21,3 +21,9 @@ The objective can be broken down into the following detailed components:
 3. Sales Forecasting: Leverage historic data and apply time series analysis to generate sales forecasts for next 15 days
 
 4. Actionable Insights and Recommendations: End goal is to share valuable insights and actionable information that can drive strategic decision-making and support the supermarket's goals for growth, efficiency, and customer satisfaction
+
+
+
+
+
+
